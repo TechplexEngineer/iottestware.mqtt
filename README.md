@@ -4,7 +4,7 @@ A Conformance Test Suite for the IoT protocol MQTT written in TTCN-3. You may fi
 
 ## Getting Started
 
-If it is your first time or you would like to get some help, please read the **[Quickstart Guide](https://iottestware.readthedocs.io/en/latest/quickstart_guide.html)** to get everything set up and to have an easy start with the IoT-Testware.
+If it is your first time or you would like to get some help, please read the **[Quickstart Guide](https://iottestware.readthedocs.io/en/master/quickstart_guide.html)** to get everything set up and to have an easy start with the IoT-Testware.
 
 ## Versioning
 
